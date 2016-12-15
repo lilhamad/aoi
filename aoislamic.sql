@@ -873,7 +873,7 @@ CREATE TABLE IF NOT EXISTS `users` (
 --
 
 INSERT INTO `users` (`user_id`, `firstname`, `lastname`, `phone`, `email`, `password`, `image`, `status`, `gender`, `rank`, `date`, `online`) VALUES
-(11, 'Super Admin', 'Atata', '090090090', '0810@rr.rr', '', '', 0, 'male', 1, '', 'online'),
+(11, 'Super Admin', 'Atata', '090090090', '0810@rr.rr', '3d9cc3dd0e0c49b0c825e90a854bdcce34a335d9', '', 0, 'male', 1, '', 'online'),
 (30, 'Lecturers', '', '', '', '', '', 6, '', 6, '', 'online'),
 (31, 'Students', '', '', '', '', '', 6, '', 6, '', ''),
 (32, 'Executives', '', '', '', '', '', 6, '', 6, '', ''),
