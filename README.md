@@ -5,5 +5,7 @@ DATABASE CONFIG
 import aoislamic.sql to database aoislamic
 ---------------------
 admin login details
+login at 
+landing page/admin
 phone:090090090
 password:3d9cc3dd0e0c49b0c825e90a854bdcce34a335d9
